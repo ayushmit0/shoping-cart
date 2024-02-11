@@ -21,5 +21,6 @@ homepage will look like-
 
 <img width="595" alt="image" src="https://github.com/ayushmit0/shoping-cart/assets/88946170/eeb4b990-08ef-49dc-89b9-5915096e6de2">
 
-cartpage- image
+cartpage- 
+
 <img width="590" alt="image" src="https://github.com/ayushmit0/shoping-cart/assets/88946170/e06c39c8-c3e6-4aeb-917c-26d234acc9c0">
